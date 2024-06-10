@@ -49,6 +49,11 @@
             <p>Devuelve una cadena en mayúsculas.</p>
             <img src="https://th.bing.com/th/id/R.c3e601bbec9d303cd114fe416579485c?rik=AQS12tRHMaxpfg&pid=ImgRaw&r=0&sres=1&sresct=1" alt="toUpperCase Method">
         </div>
+         <div class="method">
+            <h2>🔤 Pop()</h2>
+            <p>Elimina el ultimo elemento de una matriz, ejemplo:</p>
+            var indice,cadena;        
+        
         <div class="method">
             <h2>🔡 toLowerCase()</h2>
             <p>Devuelve una cadena en minúsculas.</p>
