@@ -54,11 +54,10 @@
             <p>Elimina el ultimo elemento de una matriz, ejemplo:</p>
             var indice,cadena;
              <p>document.write("Las frutas son: <br>");
-             for(indice=0; indice<matriz.lengt;indice++)
+             for(indice=0; indice<matriz.lengt;indice++);
              {
                document.write(matriz[indice]+"br");
-            }
-             </p>
+            } </p>
         <div class="method">
             <h2>🔡 toLowerCase()</h2>
             <p>Devuelve una cadena en minúsculas.</p>
