@@ -28,7 +28,15 @@
            --------------------------------------------------------------------------------------------------------------
            Elemento 1, Elemento 2, Elemento 3
         Al unir los elementos, JavaScript los separa mediante comas, si queremos cambiarlo debemos poner el separador entre comillas ejem:
-        
+          </head>
+          <body>
+              <script>
+                  var matriz=new Array("Elemento 1", "Elemento 2", "Elemento 3");
+                  var cadena;
+                  cadena=matriz.join("**");
+                  document.write(cadena);
+              </script>
+          </body>
          
 
   </div> 
